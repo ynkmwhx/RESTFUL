@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  AddOperation.cpp
+  ADODatabased.cpp
+  DatabaseManage.cpp
+  DeleteOperation.cpp
+  QueryOperation.cpp
+  UpdateOperation.cpp
+  WcsDatabase.cpp
+  正在生成代码...
+e:\wms_sets\khrestful\libadodatabase\updateoperation.cpp(53): warning C4715: “UpdateOperation::UpdateOperationAbortWaitingOrder”: 不是所有的控件路径都返回值
+  正在替换 Release\stdafx.obj
+  libADODatabase.vcxproj -> E:\WMS_Sets\KHRestFul\Release\libADODatabase.lib

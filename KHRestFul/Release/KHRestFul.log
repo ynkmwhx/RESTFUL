@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  hander.cpp
+  KHRestFul.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+hander.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+    正在创建库 E:\WMS_Sets\KHRestFul\Release\KHRestFul.lib 和对象 E:\WMS_Sets\KHRestFul\Release\KHRestFul.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+libADODatabase.lib(json_reader.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib.pdb”(使用“libADODatabase.lib(json_reader.obj)”或在“E:\WMS_Sets\KHRestFul\Release\jsoncpp_lib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libADODatabase.lib(json_value.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib.pdb”(使用“libADODatabase.lib(json_value.obj)”或在“E:\WMS_Sets\KHRestFul\Release\jsoncpp_lib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libADODatabase.lib(json_writer.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib.pdb”(使用“libADODatabase.lib(json_writer.obj)”或在“E:\WMS_Sets\KHRestFul\Release\jsoncpp_lib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  KHRestFul.vcxproj -> E:\WMS_Sets\KHRestFul\Release\KHRestFul.exe

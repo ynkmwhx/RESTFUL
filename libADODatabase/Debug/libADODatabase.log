@@ -1,0 +1,7 @@
+﻿  QueryOperation.cpp
+e:\wms_sets\khrestful\libadodatabase\queryoperation.cpp(103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\wms_sets\khrestful\libadodatabase\queryoperation.cpp(104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\wms_sets\khrestful\libadodatabase\queryoperation.cpp(105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\wms_sets\khrestful\libadodatabase\queryoperation.cpp(106): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在替换 Debug\stdafx.obj
+  libADODatabase.vcxproj -> E:\WMS_Sets\KHRestFul\Debug\libADODatabase.lib

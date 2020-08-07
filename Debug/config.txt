@@ -1,0 +1,13 @@
+AMS_DSN:MySQL
+AMS_ServerIP:127.0.0.1
+AMS_Database_Name:kh_multi_agv_dispatch
+AMS_User_Name:root
+AMS_Password:940625
+WMS_DSN:MySQL
+WMS_ServerIP:127.0.0.1
+WMS_Database_Name:wcs_hzhd
+WMS_User_Name:root
+WMS_Password:940625
+
+
+
